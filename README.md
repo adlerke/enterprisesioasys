@@ -17,7 +17,7 @@
 </p>
 
 
-## ℹ️ About
+## ℹ️ Sobre
 
 ### Objetivo ###
 
@@ -48,7 +48,7 @@
 * Usuário de Teste: testeapple@ioasys.com.br
 * Senha de Teste : 12341234
 
-## 🎨 Layout
+## 🎨 Telas
 
 Os usuários tem acesso ao aplicativo onde poderão navegar entre 5 páginas.
 <ul>
@@ -74,27 +74,27 @@ Os usuários tem acesso ao aplicativo onde poderão navegar entre 5 páginas.
 </h3>
 
 
-## 🛠 Built with
+## 🛠 Construído com
 
 This project was developed with the following technologies:
 
 -   [React](https://pt-br.reactjs.org/)
 -   [React Native](https://reactnative.dev/)
--   [React Navigation](https://reactnavigation.org/)
--   [Axios](https://www.npmjs.com/package/axios)
--   [Styled Components](https://styled-components.com/)
--   [ESLint](https://eslint.org/)
+-   [React Navigation](https://reactnavigation.org/) - Para trabalhar com rotas
+-   [Axios](https://www.npmjs.com/package/axios) - Para trabalhar com requisições HTTP
+-   [Styled Components](https://styled-components.com/) - Para usar a sintaxe do CSS3 ao invés do CSS-in-JS
+-   [ESLint](https://eslint.org/) - Organização e padronização de código
 -   [Prettier](https://prettier.io/)
 -   [VS Code](https://code.visualstudio.com/)
--   [Unform](https://unform.dev/)
--   [React Native SVG](https://www.npmjs.com/package/react-native-svg)
--   [React Native Vector Icons](https://www.npmjs.com/package/react-native-vector-icons)
--   [React Number Format](https://www.npmjs.com/package/react-number-format)
--   [Yup](https://www.npmjs.com/package/yup)
+-   [Unform](https://unform.dev/) - Biblioteca focada em desempenho que ajuda criar formulários no React com o poder do desempenho dos Uncontrolled components e dos Hooks
+-   [React Native SVG](https://www.npmjs.com/package/react-native-svg) - Bilblioteca para trabalhar com SVG no React Native, exemplo na tela de Favoritos(sem nenhum favorito)
+-   [React Native Vector Icons](https://www.npmjs.com/package/react-native-vector-icons) - Biblioteca para trabalhar com ícones no React Native 
+-   [React Number Format](https://www.npmjs.com/package/react-number-format) - Formatação de Números - alternativa ao intl - Data, Currency etc.
+-   [Yup](https://www.npmjs.com/package/yup) - Validação de formulários no Front-end feita de maneira simples.
 
 
 
-## 🚀 How to run
+## 🚀 Como iniciar
 
 ```bash
 # Clone o repositório
@@ -113,7 +113,7 @@ $ yarn android
 #or yarn ios
 ```
 
-## 📝 Get in touch
+## 📝 Entre em contato
 
 
 <a href="https://twitter.com/adlerkes" target="_blank" >
