@@ -76,7 +76,7 @@ Os usuários tem acesso ao aplicativo onde poderão navegar entre 5 páginas.
 
 ## 🛠 Construído com
 
-This project was developed with the following technologies:
+O projeto foi desenvolvido com as seguintes tecnologias:
 
 -   [React](https://pt-br.reactjs.org/)
 -   [React Native](https://reactnative.dev/)
