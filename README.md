@@ -80,6 +80,7 @@ This project was developed with the following technologies:
 
 -   [React](https://pt-br.reactjs.org/)
 -   [React Native](https://reactnative.dev/)
+-   [Typescript](https://www.typescriptlang.org/) 
 -   [React Navigation](https://reactnavigation.org/) - Para trabalhar com rotas
 -   [Axios](https://www.npmjs.com/package/axios) - Para trabalhar com requisições HTTP
 -   [Styled Components](https://styled-components.com/) - Para usar a sintaxe do CSS3 ao invés do CSS-in-JS
